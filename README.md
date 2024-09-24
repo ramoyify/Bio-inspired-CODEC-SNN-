@@ -6,6 +6,8 @@
 
 This project is centered on building a **Bio-Inspired CODEC** using a custom **Spiking Neural Network (SNN)** to handle **visual and auditory data** from video files. The SNN is designed with **multi-layer encoding pathways** to efficiently compress and reconstruct signals. By incorporating noise in intermediate stages, the network simulates realistic conditions, while its performance is enhanced using **synaptic learning** and **spike-based error metrics** for precise evaluation.
 
+**View Jupyter Notebook for complete project**
+
 ---
 
 ## **Key Features**
